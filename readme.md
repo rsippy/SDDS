@@ -1,8 +1,10 @@
 ## Sistemas de Datos Digitales de Salud (SDDS)
 
 ### 20 marzo 2024: Universidad de Católica de Santiago Guayaquil, Guayaquil
-![Alt text](https://github.com/rsippy/SDDS/blob/main/Imaágenes/hosts_gye.png)
+![Alt text](https://github.com/rsippy/SDDS/blob/main/Imágenes/hosts_gye.png?raw=true)
+
 ### 22-23 marzo 2024: Universidad de las Americas, Quito
+![Alt text](https://github.com/rsippy/SDDS/blob/main/Imágenes/udla.png?raw=true)
 
 ## Presentadores
 - Rachel Sippy<sup>1, 2</sup>, PhD, MPH (info@equadata.org)
@@ -39,3 +41,6 @@ También están disponibles [las referencias](Referencias/) originales utilizada
 * [Ética y Discriminación AI](Referencias/Etica_discriminacion_AI.pdf)
 * [Implicaciones Juridicas: Waoroni](Referencias/Implicaciones_Juridicas_Waoroni.pdf)
 * [Cartografía y Evaluación de Flujos de Datos Nacionales](Referencias/Mapping_Evaluating_Natl_Data_Flows.pdf)
+
+## Apoyado por:
+![Alt text](https://github.com/rsippy/SDDS/blob/main/Imágenes/spon.png?raw=true)
