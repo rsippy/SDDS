@@ -1,5 +1,7 @@
 # Visualización de Datos
 
+![Alt text](https://github.com/rsippy/SDDS/blob/main/Imágenes/poster_Minard.gif?raw=true)
+
 La presentación se encuentra al final de la [Parte 2](Diapositivos/SDDS2.pdf). El conjunto de datos utilizado en la sesión práctica está [aquí](datos_vis.csv). La mejor forma de obtener ideas para la visualización y desarrollar un sentido de la buena o mala visualización es observar ejemplos. Practicar la interpretación de gráficos y pensar en posibles mejoras.
 
 ## Recursos de la Visualización de Datos
