@@ -1,6 +1,7 @@
 ## Sistemas de Datos Digitales de Salud (SDDS)
 
 ### 20 marzo 2024: Universidad de Católica de Santiago Guayaquil, Guayaquil
+![Alt text](https://github.com/rsippy/SDDS/blob/main/Imaágenes/hosts_gye.png)
 ### 22-23 marzo 2024: Universidad de las Americas, Quito
 
 ## Presentadores
